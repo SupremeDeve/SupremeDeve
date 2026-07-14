@@ -1,26 +1,20 @@
 <p align="center">
-  <img src="Banner Github.gif"/>
+  <img src="Banner  3.gif"/>
 </p>
-</h3>
-<h2 data-importer="text" align="left"></h2>
+
+<p data-importer="text" align="left"><br>Desenvolvedor apaixonado por tecnologia e aprendizado contínuo.Tenho interesse em desenvolvimento de sistemas, criação de jogos e desenvolvimento web. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para criar projetos cada vez melhores.
+
+Sou dedicado, responsável e comprometido, procurando evoluir constantemente tanto na área profissional quanto pessoal.<br></p>
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+</div>
+
+<h2 align="left">🛠️ Tecnologias que uso no dia a dia</h2>
 
 
-
-<p data-importer="text" align="left"><br>Tenho interesse na área de tecnologia e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço.Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.<br></p>
-
-
-
-
-
-<p align="left">
-
-###
-</p>
-###
-
-<h2 data-importer="text" align="left">Tecnolgias que uso no meu dia</h2>
-
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -33,15 +27,39 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio log />
+  <img width="12" />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SupremeDeve/SupremeDeve/output/pacman-contribution-graph-dark.svg">
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SupremeDeve/SupremeDeve/output/pacman-contribution-graph.svg">
+
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/SupremeDeve/SupremeDeve/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
